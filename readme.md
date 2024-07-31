@@ -17,8 +17,8 @@ This project aims to detect the mood of songs using various deep learning models
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/mood-detection-using-songs.git
-    cd mood-detection-using-songs
+    git clone https://github.com/Vtsl-patel/moodDetectionUsingSongs.git
+    cd moodDetectionUsingSongs
     ```
 
 2. Install the required dependencies:
@@ -236,5 +236,5 @@ This project aims to detect the mood of songs using various deep learning models
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the nothing :).
 
